@@ -49,12 +49,10 @@
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <h3>Navigation</h3>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li>      
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
+        <h3><em>Artificial Intelligence in the Liberal Arts</em></h3>
+        <li><a href="https://liberal-arts.ai/">Main Home</a></li>
+        <li><a href="{{ site.baseurl }}/">Tools</a></li>
+        <li><a href="https://liberal-arts.ai/about/">About</a></li>
     </ul>   
 </nav>
 
@@ -71,10 +69,10 @@
     <!-- Site Logo/Name
     ================================================== -->
    
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <!-- <a class="navbar-brand" href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>  
-   
+    -->
 
     <!-- Site Tag
     ================================================== -->
@@ -90,10 +88,10 @@
         {{ content }}
     </div>
 
-    {% if site.mailchimp-list %}
+    <!-- {% if site.mailchimp-list %} -->
     <!-- Newsletter
     ================================================== -->
-    <div class="newsletter text-center">
+    <!-- <div class="newsletter text-center">
         <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
@@ -102,7 +100,7 @@
             </div>
         </form>
     </div>
-    {% endif %}
+    {% endif %} -->
     
 </div>
 
@@ -112,10 +110,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+                Copyright © {{ site.time | date: "%Y" }} AILA Tools 
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
     </div>
