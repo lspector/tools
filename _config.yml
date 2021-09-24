@@ -1,10 +1,10 @@
 # Site
-name: "Tools"
+name: "AILA"
 title: "Tools - AILA"
 description: "Tools related to AILA"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
-baseurl: /jekyll-theme-memoirs
+baseurl: /tools
 google_analytics: "UA-xxxxxxxx-1"
 disqus: "demowebsite"
 mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
@@ -15,11 +15,18 @@ email: wowthemesnet@gmail.com
 # Authors
 authors:
   daniel:
-    name: Daniel
-    display_name: Daniel
-    avatar: "assets/images/avatar-sal.png"
-    email: wowthemesnet@gmail.com
-    description: "'24"
+    name: Daniel Flores Garcia
+    display_name: Daniel Flores Garcia
+    avatar: "assets/images/daniel.jpg"
+    email: dfloresgarcia24@amherst.edu
+    description: "Class of '24"
+  sung:
+    name: Sunghoon Kwak
+    display_name: Sunghoon Kwak
+    avatar: "assets/images/sung.jpg"
+    email: skwak22@amherst.edu
+    web: https://www.wowthemes.net/donate/
+    description: "Class of '22"
   sal:
     name: Sal
     display_name: Sal
