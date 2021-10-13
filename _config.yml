@@ -14,6 +14,12 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
+  lemara:
+    name: Lemara Williams
+    display_name: Lemara Williams
+    avatar: "assets/images/lemara.jpg"
+    email: lwilliams22@amherst.edu
+    description: "Class of '22"
   daniel:
     name: Daniel Flores Garcia
     display_name: Daniel Flores Garcia
