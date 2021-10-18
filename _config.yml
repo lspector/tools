@@ -31,8 +31,13 @@ authors:
     display_name: Sunghoon Kwak
     avatar: "assets/images/sung.jpg"
     email: skwak22@amherst.edu
-    web: https://www.wowthemes.net/donate/
     description: "Class of '22"
+  hope:
+    name: Hope Tsai
+    display_name: Hope Tsai
+    avatar: "assets/images/hope.jpg"
+    email: htsai23@amherst.edu
+    description: "Class of '23"
   sal:
     name: Sal
     display_name: Sal
