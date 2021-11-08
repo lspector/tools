@@ -6,29 +6,24 @@ categories: [News]
 image: assets/images/21.jpg
 ---
 
-[_Deep learning helps predict traffic crashes before they happen by Rachel Gordon_](https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012) _(MIT News)_
+[From a hidden Picasso nude to an unfinished Beethoven, AI uncovers lost art --- and new challenges by Chantal Da Silva (NBC News, Oct 30, 2021)](https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905)
 
-Summary: &quot;Fed on a combination of historical crash data, road maps, satellite imagery, and GPS traces, the risk maps describe the expected number of crashes over a period of time in the future, to identify high-risk areas and predict future crashes.&quot;
-<hr>
+Summary: During Picasso's "Blue Period" (1901-1904), Picasso painted over a "nude portrait of a crouching woman" to reuse the canvas. In 2010, the new painting ("The Blind Man's Meal" was X-rayed, revealing the unfinished portrait. In 2021, "AI experts Anthony Bourached and George Cann" sought to bring the woman out of hiding, "training AI to replicate Picasso's brushstrokes using an algorithm that allowed it to analyze dozens of his past works." Their accomplishment drew both praise and criticism. "The head of legal affairs for Picasso's estate" said that the copyright to both works, the blind man and the crouching woman, belonged to Picasso; moreover, "a machine can never replace an artist." Thus, Bourached and Cann have raised crucial questions about the intersection of art and AI: to whom does the art belong? What is the difference between art inspired by another, and art building on another?
 
-[_White House proposes tech &#39;bill of rights&#39; to limit AI harms by Matt O&#39;Brien_](https://apnews.com/article/joe-biden-science-technology-business-biometrics-b9dbf5fee3bf0e407b988b31e21f5300) _(Associated Press)_
+<br>
 
-Summary: What are our rights regarding AI? How can law protect these rights? The Biden administration is taking steps to address concerns about AI&#39;s overreach into mass surveillance and the potential for discrimination and bias on a newly invasive level.
+[Move over, Aristotle: can a bot solve moral philosophy? By Poppy Noor (The Guardian, Nov 2, 2021)](https://www.theguardian.com/technology/2021/nov/02/delphi-online-ai-bot-philosophy)
 
-<hr>
+Summary: "Delphi, an online AI bot, promises to answer any moral question users pose." Its programmers train the AI with scenarios-as-data, comparing the AI's answers with humans' answers ("recruited from Mechanical Turk -- a marketplace where researchers find paid participants for studies"). While the participants from Mechanical Turk are screened to filter out those who are biased or prejudiced, Mechanical Turk has the power to decide what is considered prejudice. Thus, though Delphi is now 92% accurate in giving ethical judgments that match humans' judgments, one wonders who it is agreeing with, and what ideas they hold. [Try Delphi out here.](https://delphi.allenai.org/)
 
-[_AI cannot be the inventor of a patent, appeals court rules_](https://www.bbc.com/news/technology-58668534) _(BBC News)_
+<br>
 
-Summary: Stephen Thaler argued that his AI, named Dabus, created a patent and thus should be given patent rights in front of the UK Court of Appeal. However, the court decided that since machines cannot have rights, Dabus cannot have patent rights. Lord Justice Arnold succinctly concludes: &quot;Only a person can be an &#39;inventor.&#39;&quot;
+[This horrifying AI model predicts future instances of police brutality by Mark Sullivan (Fast Company, Nov 2, 2021)](https://www.fastcompany.com/90689806/ai-police-brutality-predictions-future-wake)
 
-<hr>
+Summary: The project "Future Wake" trains AI on data of "past instances of police violence" to predict where, when, and how the next instance will occur. [Its interactive website ](https://www.futurewake.com/#/)generates the photos and words of the victims of police brutality in order to critique the practice of predictive policing, which maintains the biases of those who create and use it.
 
-[_A.I. Digitally Resurrects Trio of Lost Gustav Klimt Paintings_](https://www.smithsonianmag.com/smart-news/klimt-painting-restore-artificial-intelligence-color-faculty-paintings-180978843/) _(Smithsonian Magazine)_
+<br>
 
-Summary: Though &quot;Nazi looting during World War II led to the destruction of many prized Klimt works,&quot; machine learning has brought color to photographed versions of his paintings, using &quot;contemporary journalistic descriptions of the Faculty Paintings, 1 million pictures of the real world and 80 full-color reproductions of Klimt paintings from the same period&quot; as the dataset.
+[Fraudsters Cloned Company Director's Voice In $35 Million Bank Heist, Police Find by Thomas Brewster (Forbes, Oct 14, 2021)](https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=719d8b7d7559)
 
-<hr>
-
-[_How an AI finished Beethoven&#39;s last symphony and what that means for the future of music by Jason Goodyer_](https://www.sciencefocus.com/news/ai-beethovens-symphony/) _(BBC Science Focus Magazine)_
-
-Summary: &quot;When he died in 1827 aged 56, Ludwig van Beethoven left his 10th symphony unfinished.&quot; Hoping to find one potential version of the work, a team at Rutgers University used the initial snippets of melodies, Beethoven&#39;s other symphonies, and his contemporaries&#39; work to train the AI. [Listen to the finished product here.](https://www.youtube.com/watch?v=Rvj3Oblscqw&feature=emb_logo)
+Summary: "Deepfakes" are AI-created media that can create believable yet fake events, speeches, films, people, interactions, etc. out of thin air. In 2020, a bank manager received a call from a "deepfake voice," whom he believed to belong to an acquaintance. However, the voice was cloned from the acquaintance, and instead belonged to fraudsters who successfully saw $35 million transferred into their bank account. So, "if recordings of you speaking are available online, whether on social media, YouTube or on an employer's website, there may well be a secret battle going on for control of your voice without you knowing."
