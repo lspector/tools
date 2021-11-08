@@ -38,6 +38,12 @@ authors:
     avatar: "assets/images/hope.jpg"
     email: htsai23@amherst.edu
     description: "Class of '23"
+  aila:
+    name: AILA Team
+    display_name: AILA Team
+    avatar: "assets/images/logo.jpg"
+    email: aila@amherst.edu
+    description: "The AILA Team"
   sal:
     name: Sal
     display_name: Sal
